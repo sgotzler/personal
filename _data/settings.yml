@@ -8,7 +8,7 @@ google-ID: ''
 
 menu:
 - {name: 'Writing', file: 'writing.html'}
-- {name: 'Projects', folder: 'pages', file: 'projects.html'}
+- {name: 'Projects', file: 'projects.html'}
 - {name: 'Teaching', file: 'teaching.html'}
 - {name: 'About', folder: 'about', file: 'about-me.html'}
 # - {name: 'Interesting Facts', folder: 'pages', file: 'facts.html'}
