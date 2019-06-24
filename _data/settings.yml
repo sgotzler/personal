@@ -10,7 +10,7 @@ menu:
 - {name: 'Writing', folder: 'pages', file: 'writing.html'}
 - {name: 'Projects', folder: 'pages', file: 'projects.html'}
 - {name: 'Teaching', folder: 'pages', file: 'teaching.html'}
-- {name: 'About', folder: 'pages', file: '2019-06-01-about-me.md'}
+- {name: 'About', folder: '_posts', file: '2019-06-01-about-me.md'}
 # - {name: 'Interesting Facts', folder: 'pages', file: 'facts.html'}
 # - {name: 'Learning Resources', folder: 'pages', file: 'resources.html'}
 # - {name: 'Sample Posts', folder: 'pages', file: 'sample-posts.html'}
