@@ -8,7 +8,7 @@ google-ID: ''
 
 menu:
 - {name: 'About', folder: 'about', file: 'about-me.html'}
-- {name: 'Writing', file: '2019-06-4-writing.md'}
+- {name: 'Writing', file: 'writing.html'}
 - {name: 'Projects', file: 'projects.html'}
 - {name: 'Teaching', file: 'teaching.html'}
 # - {name: 'Interesting Facts', folder: 'pages', file: 'facts.html'}
