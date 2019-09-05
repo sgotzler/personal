@@ -7,7 +7,7 @@ The website was built by Steven Gotzler using a fork of the Millennial theme for
 ## License
 The Millennial theme for Jekyll by Paul Le is open sourced under the [MIT license](https://github.com/LeNPaul/Millennial/blob/gh-pages/LICENSE.md).
 
-All othe original materials contained herein are licensed a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+All othe original materials contained herein are licensed a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
 
 
