@@ -16,7 +16,7 @@ sass:
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           "Steven Gotzler"
 description:
-author:              "built by Steve Gotzler using Millennial theme by Paul Le"
+author:              "[Powered by Github](https://github.com/sgotzler/personal) | built by Steve Gotzler using Markdown and the Jekyll theme Millennial by Paul Le"
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
